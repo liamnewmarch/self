@@ -14,7 +14,7 @@ Why not? I thought it would be funny to open issues and pull requests to improve
 
 Section | Description
 --- | ---
-[Reading list](/books/) | Professional reading list and notes.
-[Conferences](/conferences/) | Conferences and meetups attended.
-[Career goals](/goals/) | Notes relating to specific development goals.
-[Today I learned](/til/) | Today I Learned. Mostly for fun, but also a record of things that interest me over time.
+[Reading list](books/index.md) | Professional reading list and notes.
+[Conferences](conferences/index.md) | Conferences and meetups attended.
+[Career goals](goals/index.md) | Notes relating to specific development goals.
+[Today I learned](til/index.md) | Today I Learned. Mostly for fun, but also a record of things that interest me over time.
