@@ -4,5 +4,5 @@
 
 | goal | description |
 |---|---|
-| [/engineering/](/engineering/) | Leveling up as an individual contributor |
-| [/leadership/](/leadership/) | Growing confidence in my leadership skills |
+| [Engineering](engineering.md) | Leveling up as an individual contributor |
+| [Leadership](leadership.md) | Growing confidence in my leadership skills |
