@@ -13,7 +13,7 @@ Why not? I thought it would be funny to open issues and pull requests to improve
 ## Contents
 
 Section | Description
---- | ---
+------- | -----------
 [Reading list](books/index.md) | Professional reading list and notes.
 [Conferences](conferences/index.md) | Conferences and meetups attended.
 [Career goals](goals/index.md) | Notes relating to specific development goals.

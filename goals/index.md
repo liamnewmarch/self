@@ -2,7 +2,7 @@
 
 ## Contents
 
-| goal | description |
-|---|---|
-| [Engineering](engineering.md) | Leveling up as an individual contributor |
-| [Leadership](leadership.md) | Growing confidence in my leadership skills |
+Goal | Description
+---- | -----------
+[Engineering](engineering.md) | Levelling up as an individual contributor
+[Leadership](leadership.md) | Growing confidence in my leadership skills
