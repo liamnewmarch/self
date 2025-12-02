@@ -4,6 +4,11 @@ Here’s a list of random things I’ve learned. Take everything with a pinch of
 
 ## 2025
 
+### December
+
+- Linus Torvalds builds [guitar pedals](https://github.com/torvalds/GuitarPedal) for fun, despite not playing guitar.
+  > Also, because I don't typically listen to the end result, but look at it with a signal generator and an oscilloscope, I've grown to detest power supply noise.
+
 ### November
 
 - Node.js has support for SQLite right out of the box:
