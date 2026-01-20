@@ -2,6 +2,16 @@
 
 Here’s a list of random things I’ve learned. Take everything with a pinch of salt.
 
+## 2026
+
+### January
+
+- Wikipedia have a meta guide on how to detect the [signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
+- You can use [What’s up Docker](https://getwud.github.io/wud/) to get notifications when new images are available.
+  - Previously I used Watchtower to keep containers up to update, but this allows me to check the changelogs first.
+- [Helix](https://github.com/helix-editor/helix/) has support for code generation via [LSP-AI](https://github.com/SilasMarvin/lsp-ai).
+  - For context; Helix doesn’t have plugins, instead you configure language servers to analyze, lint and format your code.
+
 ## 2025
 
 ### December
@@ -24,7 +34,7 @@ Here’s a list of random things I’ve learned. Take everything with a pinch of
   curl http://localhost:8000/api/endpoint | jq -r '.message | test("^error"; "i")'
   ```
 
-- It’s [really easy](https://support.apple.com/en-gb/guide/mac-help/mchl91750563/mac) to use macOS Shortcuts to chat with Apple Intelligence.
+- You can [use Apple Shortcuts to chat](https://support.apple.com/en-gb/guide/mac-help/mchl91750563/mac) with the LLMs which power Apple Intelligence.
   - Prompts are handled locally by the on-device Foundation Model.
   - For more complex prompts you can also chat with Apple Personal Cloud.
   - I still prefer my [cli tool](https://github.com/liamnewmarch/ai/) though :)
