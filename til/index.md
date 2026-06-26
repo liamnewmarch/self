@@ -4,6 +4,14 @@ Here’s a list of random things I’ve learned. Take everything with a pinch of
 
 ## 2026
 
+### June
+
+- macOS 27 includes an `fm` command which lets you chat directly with Apple’s Foundation Models which power Siri. You can choose between the on-device model and Private Cloud Compute, and also spin up a server for completions.
+
+- Apple’s [container](https://github.com/apple/container/) tool hit 1.0. It’s a OCI runtime compatible with the `docker` CLI, built with Swift and optimized for Apple Silicon.
+
+- Safari has a strict autoplay policy for `<video>` elements where they need the `autoplay`, `muted` and `playsinline` attributes, but it will still refuse to autoplay any video if the device is in Low Power mode.
+
 ### May
 
 - [JS Crossword](https://lyra.horse/fun/jscrossword/) is hard but fun.
@@ -59,8 +67,3 @@ Here’s a list of random things I’ve learned. Take everything with a pinch of
   ```sh
   curl http://localhost:8000/api/endpoint | jq -r '.message | test("^error"; "i")'
   ```
-
-- You can [use Apple Shortcuts to chat](https://support.apple.com/en-gb/guide/mac-help/mchl91750563/mac) with the LLMs which power Apple Intelligence.
-  - Prompts are handled locally by the on-device Foundation Model.
-  - For more complex prompts you can also chat with Apple Personal Cloud.
-  - I still prefer my [cli tool](https://github.com/liamnewmarch/ai/) though :)
